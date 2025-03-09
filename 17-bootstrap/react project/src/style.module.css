@@ -1,0 +1,27 @@
+.todo {
+  width: 320px;
+  height: auto;
+  border: 1px solid gray;
+}
+
+.center {
+  width: 480px;
+  height: 180px;
+  border: 1px solid gray;
+  border-radius: 10px;
+}
+
+.cen {
+  width: 370px;
+  height: 550px;
+  text-align: left;
+  background-color: white;
+  box-shadow: 7px 14px 42px 3px rgba(163, 174, 184, 0.4);
+}
+
+.inputs {
+  padding-right: 45%;
+  margin-left: 9px;
+  box-shadow: 7px 14px 42px 3px rgba(139, 150, 160, 0.4);
+  border: none;
+}
